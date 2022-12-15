@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=helloDolin&hide=contribs&show_icons=true&theme=dark" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=helloDolin&hide=contribs&show_icons=true&theme=highcontrast" />
 ### hello，world 👋
 
+- 🤔 I'm currently writing some Objective-C, Flutter, and Python
 - 🔭 Focusing on Flutter
 - :meat_on_bone:  Meat lover
