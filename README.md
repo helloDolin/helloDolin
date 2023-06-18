@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=helloDolin&hide=contribs&show_icons=true&theme=highcontrast" />
 
-### hello，world 👋
+# It's Dolin.
 
-- 🤔 I'm currently writing some Objective-C, Flutter, and Python
+Thanks for visiting my profile page.
+
+Couple things about me:
 - 🔭 Focusing on Flutter
 - :meat_on_bone:  Meat lover
+- 🤔 I'm currently writing some Flutter,Objective-C and Python
+- Right now I'm in between jobs
+
+## Contact me:
+366688603@qq.com
+
