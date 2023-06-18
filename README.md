@@ -23,7 +23,7 @@ Couple things about me:
 - 🔭 Focusing on Flutter
 - :meat_on_bone:  Meat lover
 - 🤔 I'm currently writing some Flutter,Objective-C and Python
-- Right now I'm in between jobs
+- 😅 Right now I'm in between jobs
 
 ## Contact me:
 366688603@qq.com
