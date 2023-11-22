@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   <!-- <a href="https://blog.sunguoqi.com/"> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Stay Hungry. Stay Foolish.&center=true&size=27&color=000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=stay+hungry+stay+foolish&center=true&size=27&color=000000" />
   <!-- </a> -->
 </h1>
 
